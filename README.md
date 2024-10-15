@@ -9,5 +9,5 @@ pip install -r requirements.txt
 python3 [Signals_Audio.py | Signals_Mic.py]
 ```
 ## Credits
-(Mohamed Yossery Elsayed)[mail:cfmohammed24@gmail.com]: a penetration testing student.
+[Mohamed Yossery Elsayed](mail:cfmohammed24@gmail.com): a penetration testing student.
 Feel free to contact me.
